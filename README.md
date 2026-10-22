@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 Live Demo
-* **Live App Link:** `Coming Soon (Deploying on Streamlit Cloud)`
+* **Live App Link:** [👉 Click here to try the Live App](https://ai-bug-report-analyzer-pcygwswh2rkqzfn5xdrvp6.streamlit.app/)
 
 
 ---
