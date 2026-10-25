@@ -41,7 +41,6 @@ User Input ➔ **[01 Analysis]** ➔ **[02 Severity]** ➔ **[03 Root Cause]** �
 ### ✨ Key Features
 * **Multi-Step LangGraph Pipeline:** Automated stateful execution across 4 distinct processing stages.
 * **Resilient Multi-Key Rotation:** Built-in `itertools.cycle` rotation supporting up to 3 Gemini API keys to bypass rate limits (`RPM`/`TPM`) on free-tier usage.
-* **Modern Lavender UI:** Sleek white and soft lilac/purple styling featuring custom cards, hover effects, and a responsive layout.
 * **Quick Test Presets:** Pre-configured buttons for instant testing (Login Crash, UI Glitch, Data Bug).
 * **Robust Error Handling & Fallbacks:** Graceful dynamic fallbacks ensure the app never leaves the user hanging if an API call fails.
 
